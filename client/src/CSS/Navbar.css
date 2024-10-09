@@ -1,0 +1,23 @@
+
+.navbar {
+    width: 100%;
+    background-color: #343a40; 
+    position: fixed;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    color: #ffffff; 
+    text-decoration: none; 
+}
+.nav-link:hover{
+    color: gold;
+}
+.material-symbols-outlined {
+    font-size: 1.5rem;
+    margin-right: 0.5rem; 
+}
+.nav-item {
+    margin: 0 0.5rem; 
+}
